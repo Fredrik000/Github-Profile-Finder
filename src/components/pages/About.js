@@ -1,7 +1,6 @@
-import React from 'react';
-import { Fragment } from 'react';
+import React, { Fragment } from 'react';
 
-export const About = () => {
+const About = () => {
   return (
     <Fragment>
       <h1>About This App</h1>
